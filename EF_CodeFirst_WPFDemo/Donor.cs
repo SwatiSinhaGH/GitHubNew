@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace EF_CodeFirst_WPFDemo
 {
     /// <summary>
-    /// 
+    /// Adding
     /// </summary>
     public class Donor
     {
