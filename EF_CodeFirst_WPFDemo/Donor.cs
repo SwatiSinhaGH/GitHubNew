@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace EF_CodeFirst_WPFDemo
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class Donor
     {
         public int DonorID { get; set; }
