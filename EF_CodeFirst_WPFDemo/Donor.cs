@@ -13,5 +13,6 @@ namespace EF_CodeFirst_WPFDemo
         public string Name { get; set; }
         public string BloodGrp{ get; set; }
         public string City { get; set; }
+        public int No { get; set; }
     }
 }
